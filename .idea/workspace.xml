@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ec85bcf-f912-41c0-8d3b-3997734f2ceb" name="Default Changelist" comment="" />
+    <list default="true" id="6ec85bcf-f912-41c0-8d3b-3997734f2ceb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student/src/main/java/com/aldado/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student/src/test/java/com/aldado/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student/target/classes/com/aldado/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student/target/test-classes/com/aldado/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aldado/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/aldado/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/aldado/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/aldado/PersonTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Student/target/" />
@@ -37,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/aldado/PersonTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -239,7 +256,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551917761882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551918039587" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -335,7 +352,7 @@
       <option name="presentableId" value="Default" />
       <updated>1551906243660</updated>
       <workItem from="1551906254472" duration="766000" />
-      <workItem from="1551912225672" duration="5508000" />
+      <workItem from="1551912225672" duration="5785000" />
     </task>
     <servers />
   </component>
@@ -351,7 +368,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6274000" />
+    <option name="totallyTimeSpent" value="6551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -455,7 +472,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/aldado/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
         </state>
       </provider>
     </entry>
